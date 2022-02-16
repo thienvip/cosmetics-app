@@ -1,0 +1,9 @@
+.banner {
+  background: linear-gradient(
+    -55deg,
+    #77c77a 29%,
+    #09794e 29.1%,
+    #09794e 68%,
+    #77c77a 68.1%
+  );
+}
